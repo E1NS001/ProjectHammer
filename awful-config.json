@@ -1,0 +1,7 @@
+{
+    "load": [
+        "ProjectHammer.lua",
+        "retribution-actor.lua",
+        "retribution-spells.lua"
+    ]
+}
